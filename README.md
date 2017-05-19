@@ -12,8 +12,6 @@ Register your github account to this team.
 
 
 ## Todo
-1. First give the link of the github repository
-2. Second make a brainstorming
 3. Discuss these points
 4. start the presentation of Gabriel
 5. take notes about the presentation
@@ -30,6 +28,7 @@ Register your github account to this team.
 ## Todo next
 * make the facebook group 
 * make regular events during quarta
+* chamar outros grupos
 
 
 ## About the garoa datahacker group
