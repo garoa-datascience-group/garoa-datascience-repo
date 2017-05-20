@@ -11,24 +11,16 @@ Welcome futur garoa-datahacker, to be an effective contributor we recommend that
 Register your github account to this team.
 
 
-## Todo
-3. Discuss these points
-4. start the presentation of Gabriel
-5. take notes about the presentation
-* Discuss the structure of garoa group of study: start at 19h?/palestra de 30-45 min every events?/(Minidatahackthon
-* find a name and replace it in the read me
-* Find a logo
-* Discuss the way to make project, should we all work on the same projects? or should we all work on a different project ?
-* Discuss the use of this document
-* Discuss about the 
-* Do we want to promote the group? if yes, how ? 
-* if anyone as idea on how to improve the learning rate and the experience
-* should everyone make a presentation?
-
 ## Todo next
 * make the facebook group 
 * make regular events during quarta
 * chamar outros grupos
+* plan sexta feira (26) next meeting
+* 26 presentacao do Sklearn me
+* presentation Gabriel
+* Tadashi logo
+* projeitos 
+* trazer dataset
 
 
 ## About the garoa datahacker group
