@@ -10,18 +10,11 @@ Hey! Welcome!
 Welcome futur garoa-datahacker, to be an effective contributor we recommend that you start your journey by reading this document.
 Register your github account to this team.
 
+martinthomas.2112@gmail.com
 
-## Todo next
-* make the facebook group 
-* make regular events during quarta
-* chamar outros grupos
-* plan sexta feira (26) next meeting
-* 26 presentacao do Sklearn me
-* presentation Gabriel
-* Tadashi logo
-* projeitos 
-* trazer dataset
-
+## Dataset
+* music (bota)
+* Kaggle
 
 ## About the garoa datahacker group
 The aim of this group is to build an effective working environement to improve our knowledge on data science (DS), machine learning (ML) and artificial inteligence(AI) by a direct application on real case problems. It also permits to exchange knwloedge with other specific domain expert related to data science. We use programing languages such as python and R with machine learning and data analysis package.
