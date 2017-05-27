@@ -12,9 +12,11 @@ Register your github account to this team.
 
 martinthomas.2112@gmail.com
 
+## Todo
+* Quarta feira
+
 ## Dataset
-* music (bota)
-* Kaggle
+* Kaggle: Amazon competition kaggle
 
 ## About the garoa datahacker group
 The aim of this group is to build an effective working environement to improve our knowledge on data science (DS), machine learning (ML) and artificial inteligence(AI) by a direct application on real case problems. It also permits to exchange knwloedge with other specific domain expert related to data science. We use programing languages such as python and R with machine learning and data analysis package.
