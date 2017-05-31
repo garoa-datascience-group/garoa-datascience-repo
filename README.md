@@ -1,6 +1,15 @@
 # Data Science group repository
 Welcome to the Data Science group repository.
 
+
+## Session format 
+regular event in the garoa hacker club
+<< A cada sessão a gente vão fazer um resumo da ultima sessão, dae voce pode tirar o atraso.
+Também, eu acho que nos vamos tentar deixar as sessão independente entre elas.
+Porque sendo realístico, neguem vai conseguir estar la sempre.>>
+
+
+
 ## About the Garoa DataScience Group
 The aim of this group is to build an effective working environement to improve our knowledge on data science (DS), machine learning (ML) and artificial inteligence(AI) by a direct application on real case problems. It also permits to exchange knwloedge with other specific domain expert related to data science. We use programing languages such as python and R with machine learning and data analysis package.
 
