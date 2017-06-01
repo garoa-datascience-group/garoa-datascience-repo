@@ -1,14 +1,17 @@
 # Data Science group repository
 Welcome to the Data Science group repository.
 
+# E-mail
+* Get github account 
 
-## Session format 
-regular event in the garoa hacker club
-<< A cada sessão a gente vão fazer um resumo da ultima sessão, dae voce pode tirar o atraso.
-Também, eu acho que nos vamos tentar deixar as sessão independente entre elas.
-Porque sendo realístico, neguem vai conseguir estar la sempre.>>
+# Next session (Quarta feira 7/ Junho)
+* Presentation of the article "The use of multiple measurements in taxonomic problems" (Fisher and al.)
 
-
+# Session format
+* Aprofondar numa tecnica/ metodo/ sub-tecnica presentaçao (1h30/2) 
+  * format coding kata http://codingdojo.org/RandoriKata/
+  * Trabalhando tudo mundo junto
+* Essas tecnicas deveria servir pra resolver o problema kaggle
 
 ## About the Garoa DataScience Group
 The aim of this group is to build an effective working environement to improve our knowledge on data science (DS), machine learning (ML) and artificial inteligence(AI) by a direct application on real case problems. It also permits to exchange knwloedge with other specific domain expert related to data science. We use programing languages such as python and R with machine learning and data analysis package.
