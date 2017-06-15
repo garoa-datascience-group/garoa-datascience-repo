@@ -1,8 +1,10 @@
 # Data Science group repository
 Welcome to the Data Science group repository.
 
-## **Next session** (Quarta feira 7/ Junho)
-* Presentation of the article "The use of multiple measurements in taxonomic problems" (Fisher and al.)
+## **Next session** (Quarta feira 21/ Junho)
+ * LDA fisher Danilo
+ * (next next session -> Resumo tensorflow Humberto)
+
 
 ## About the Garoa DataScience Group
 We are a group composed by students from the University of Sao Paulo from diverse area such as computer science, bioinformatics, atmospheric sciences; as well as profesional, datascientists, programers and machine learner enthusiast. The aim of this group is to build an effective working environement to improve our knowledge on data science (DS), machine learning (ML) and artificial inteligence(AI) by direct applications on real case problems. We mostly use Python and its modules for data analysis (pandas), statistics and machine learning (e.g. scipy and sklearn) and deep learning (Keras and TensorFlow). But we are happy to use other languages such as R. If you want to meet us and learn with us, come to the Garoa hacker clube or come , you will be welcomed! 
