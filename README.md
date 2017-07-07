@@ -1,9 +1,16 @@
 # Data Science group repository
 Welcome to the Data Science group repository.
 
-## **Next session** (Quarta feira 21/ Junho)
- * LDA fisher Danilo
- * (next next session -> Resumo tensorflow Humberto)
+## TODO
+ * Create regular Data science group events in Garoa website
+ * Move this repository to Garoa clube repository 
+ * Include presentations in this repository 
+ 
+## **Next sessions activities** 
+* 12/07 - Finalizar os exercícios e outras "pontas soltas"
+* 19/07 - Apresentação do Gabriel Perez sobre o artigo do Rosenblatt
+* 26/07 - Apresentação do Flavio Lichtenstein sobre a curva ROC
+* 02/08 - Apresentação do Alex Sandro sobre mínimos quadrados.
 
 
 ## About the Garoa DataScience Group
